@@ -415,3 +415,6 @@ A comprehensive directory of 400 Bangladesh-based software houses, startups, IT 
 | 399 | StackEdge Studio | Dhaka | Next.js / TypeScript / SaaS Agency | [Visit Link](https://stackedgestudio.io/) | [LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=StackEdge%20Studio) |
 | 400 | DevApex BD | Dhaka | MERN Stack & Full Stack JS Agency | [Visit Link](https://devapexbd.com/) | [LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=DevApex%20BD) |
 | 401 | Ollyo (Themeum / Tutor LMS) | Dhaka | WordPress Product / SaaS / EdTech | [Website](https://www.ollyo.com/) | [LinkedIn](https://www.linkedin.com/company/ollyo/) |
+| 402 | CloudJinix | Dhaka | Cloud VPS, KVM Infrastructure & BDIX Hosting | [Website](https://jinix.cloud/) | [LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=CloudJinix) |
+| 403 | FiberNox | Dhaka | Next-Gen ISP Billing, Network ERP & Automation | [Website](https://fibernox.com/) | [LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=FiberNox) |
+| 404 | SMSBD.Asia | Dhaka | High-Speed Bulk SMS, OTP Gateway & Telecom API | [Website](https://smsbd.asia/) | [LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=SMSBD) |
